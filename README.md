@@ -1,10 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Ajy8KP4Y)
 
 # Introduction
 # Event data of Baku
-
-- **Github Repo URL** https://github.com/ADA-SITE-ENCE-3503/team-project-team-18
-Note that as we did have a name issue we did create a new repo and it is the last one we did create and join.
 
 ## Project Background
 This project aims to scrape, analyze and predict event-related data, focusing on various aspects such as ticket pricing, availability, and audience preferences. The dataset used for this analysis was scraped by Team 18 from iticket.az, and it contains information about events, ticket pricing, and related features. The goal is to clean the data, perform exploratory analysis, and develop a predictive model to forecast event prices based on certain features like ticket availability, minimum price.
