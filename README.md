@@ -12,16 +12,6 @@ This project aims to scrape, analyze and predict event-related data, focusing on
 ## Structure of files
 As we had additional text file to store links of events we scraped , we did push the text file to our repo with name "event_links_data_team_18.txt". Although in instructions file it was not mentioned, we needed to keep the file to store our links safe. As it was used for scraping events from their dynamic pages. Additonally we added zip folder of project to BB and repository.
 
-## Team Allocation Table
-
-| Team 18                       | Contribution (%)     |
-|-------------------------------|----------------------|
-| Khavar Jabbarli (Team Leader) | 33.3%                |
-| Narmin Rahimli                | 33.3%                |
-| Kanan Gulmammadov             | 33.3%                |
-| Lala Najafova                 | 0%                   |
-
-
 
 ## Objectives
 The primary objectives of this project are:
